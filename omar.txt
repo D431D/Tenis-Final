@@ -1,11 +1,2 @@
 el dave
-<<<<<<< HEAD
-<<<<<<< HEAD
-hola que hace!!!
-=======
-esta es una segunda linea
->>>>>>> origin/master
-=======
-esta es una segunda linea
-esta es otra linea
->>>>>>> ecdc8a6879caeb599e468d55ed09338a9f151249
+
