@@ -1,2 +1,6 @@
 el dave
+<<<<<<< HEAD
 hola que hace!!!
+=======
+esta es una segunda linea
+>>>>>>> origin/master
